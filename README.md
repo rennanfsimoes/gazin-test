@@ -13,7 +13,7 @@ O teste deve ser armazenado em um gerenciador de código remoto de sua preferên
 Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique-se de fornecer todas as instruções necessárias no README.md 
 
 ___
-## CONFIGURING THE PROJECT
+## _CONFIGURING THE PROJECT_
 
 ## _Clone project_
 $  git clone https://github.com/rennanfsimoes/gazin-test/
