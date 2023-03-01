@@ -1,11 +1,5 @@
 terraform {
 
-  # cloud {
-  #   workspaces {
-  #     name = "gazin-terraform-eks"
-  #   }
-  # }
-
   required_providers {
     aws = {
       source  = "hashicorp/aws"
