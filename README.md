@@ -17,7 +17,9 @@ ___
 
 ## _Prerequisites_
 Terraform: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
 Extension Vs Code HashiCorp Terraform: https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+
 aws-cli: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 ## _Clone project_
