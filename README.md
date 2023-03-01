@@ -11,7 +11,6 @@ O teste deve ser armazenado em um gerenciador de código remoto de sua preferên
 ## _obs. 2_:
 Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique-se de fornecer todas as instruções necessárias no README.md
 
+##_Run the following command to retrieve the access credentials for your cluster and configure kubectl._
 
-- Run the following command to retrieve the access credentials for your cluster and configure kubectl.
-
--- $ aws eks --region $(terraform output -raw region) update-kubeconfig --name $(terraform output -raw cluster_name)
+- $ aws eks --region $(terraform output -raw region) update-kubeconfig --name $(terraform output -raw cluster_name)
