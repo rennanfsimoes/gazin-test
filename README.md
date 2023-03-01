@@ -13,6 +13,16 @@ O teste deve ser armazenado em um gerenciador de código remoto de sua preferên
 Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique-se de fornecer todas as instruções necessárias no README.md 
 
 ___
+## _configuring the project_
+
+## _Clone project_
+$  git clone https://github.com/rennanfsimoes/gazin-test/
+
+## _Initialize terraform_
+$  terraform init
+
+## _Apply terraform_
+$ terraform apply
 
 ## _Configuring Kubectl_
 Run the following command to retrieve the access credentials for your cluster and configure kubectl.
