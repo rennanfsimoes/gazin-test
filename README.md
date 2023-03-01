@@ -14,9 +14,9 @@ Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique
 
 ## _Configuring Kubectl_
 Run the following command to retrieve the access credentials for your cluster and configure kubectl.
-## $ aws eks --region $ (terraform output -raw region) update-kubeconfig --name $ (terraform output -raw cluster_name) --corrigir comando
+## $  aws eks --region $ (terraform output -raw region) update-kubeconfig --name $ (terraform output -raw cluster_name) --corrigir comando
 
 ## _Verify the Cluster_
 Use kubectl commands to verify your cluster configuration.
 
-$ kubectl cluster-info
+## $ kubectl cluster-info
