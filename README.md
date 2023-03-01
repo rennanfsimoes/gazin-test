@@ -14,7 +14,7 @@ ___
 
 ## _(optional)_
 
-Extension Vs Code HashiCorp Terraform: https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+- Extension Vs Code HashiCorp Terraform: https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
 
 
 ## _Clone project_
