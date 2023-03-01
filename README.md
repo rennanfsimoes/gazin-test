@@ -9,4 +9,9 @@ Cloud escolhida: AWS
 ## _obs._: 
 O teste deve ser armazenado em um gerenciador de código remoto de sua preferência, caso necessário a disponibilização de forma privada informar a plataforma para disponibilizarmos um usuário para compartilhamento. 
 ## _obs. 2_:
-Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique-se de fornecer todas as instruções necessárias no README.md 
+Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique-se de fornecer todas as instruções necessárias no README.md
+
+
+- Run the following command to retrieve the access credentials for your cluster and configure kubectl.
+
+-- $ aws eks --region $(terraform output -raw region) update-kubeconfig --name $(terraform output -raw cluster_name)
