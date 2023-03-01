@@ -8,9 +8,9 @@ ___
 ## _CONFIGURING THE PROJECT_
 
 ## _Prerequisites_
-Terraform: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+- Terraform: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
-aws-cli: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+- aws-cli: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 ## _(optional)_
 
