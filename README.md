@@ -12,6 +12,8 @@ O teste deve ser armazenado em um gerenciador de código remoto de sua preferên
 ## _obs. 2_:
 Será avaliado a capacidade do cumprimento de cada uma dessas etapas. Certifique-se de fornecer todas as instruções necessárias no README.md 
 
+################################################################
+
 ## _Configuring Kubectl_
 Run the following command to retrieve the access credentials for your cluster and configure kubectl.
 
