@@ -1,14 +1,13 @@
 resource "helm_release" "nginx_ingress_controller" {
-    name = "nginx_ingress_controller"
-    repository = "https://kubernetes-charts.storage.googleapis.com/"
-    chart = "stable/nginx-ingress"
+    name = "nginx"
+    chart = "./ingress-nginx"
     version = "4.1.3"
     namespace = "ingress"
     create_namespace = "true"
 
     set {
       name = "controller.service.type"
-      value = "loadBalancer"
+      value = "LoadBalancer"
     }
     set {
       name = "controller.autoscaling.enabled"
